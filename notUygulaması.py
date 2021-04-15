@@ -17,25 +17,25 @@ def notHesapla(satir):
     if (ortalama >= 90):
         harf = "AA"
 
-    elif (ortalama >= 85 and ortalama <= 89):
+    elif (ortalama >= 85):
         harf = "BA"
 
-    elif (ortalama >= 80 and ortalama <= 84):
+    elif (ortalama >= 80):
         harf = "BB"
 
-    elif (ortalama >= 75 and ortalama <= 79):
+    elif (ortalama >= 75):
         harf = "CB"
 
-    elif (ortalama >= 70 and ortalama <= 74):
+    elif (ortalama >= 70):
         harf = "CC"
 
-    elif (ortalama >= 65 and ortalama <= 69):
+    elif (ortalama >= 65):
         harf = "DC"
 
-    elif (ortalama >= 60 and ortalama <= 64):
+    elif (ortalama >= 60):
         harf = "DD"
 
-    elif (ortalama >= 50 and ortalama <= 59):
+    elif (ortalama >= 50):
         harf = "FD"
 
     elif (ortalama <= 49):
